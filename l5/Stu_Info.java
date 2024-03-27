@@ -1,4 +1,4 @@
-package l5;
+// package l5;
 import java.util.Scanner;
 abstract class Student {
     int roll_no;
